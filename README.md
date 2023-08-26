@@ -74,7 +74,7 @@ background:#00a0f0;
     <a class="bar" href="#"><i class="fa-solid fa-bars" style="color: #000000;"></i></a>
     <button class="AJO"><a href="AJOUTER UN PRODUIT.HTML"><i class="fa-solid fa-plus" style="color: #ffffff;"></i></a></button>
     <a class="lang" href="#"><i class="fa-solid fa-earth-americas" style="color: #000000;"></i></a>
-    <a class="NOT" href="NOTIFICATION.HTML"><i class="fa-regular fa-comment" style="color: #000000;"></i></a>
+    <a class="NOT" href="index.md"><i class="fa-regular fa-comment" style="color: #000000;"></i></a>
     <select name="lang" id="cnt">
     <a href="#"><option value="">FRANÇAIS</option></a>
     </select>
